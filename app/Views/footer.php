@@ -1,0 +1,11 @@
+  <script src="<?= base_url(); ?>/js/jquery-3.5.0.min.js"></script>
+  <script src="<?= base_url(); ?>/js/preloader.min.js"></script>
+  <script src="<?= base_url(); ?>/js/fm.revealator.jquery.min.js"></script>
+  <script src="<?= base_url(); ?>/js/imagesloaded.pkgd.min.js"></script>
+  <script src="<?= base_url(); ?>/js/masonry.pkgd.min.js"></script>
+  <script src="<?= base_url(); ?>/js/classie.js"></script>
+  <script src="<?= base_url(); ?>/js/cbpGridGallery.js"></script>
+  <script src="<?= base_url(); ?>/js/jquery.hoverdir.js"></script>
+  <script src="<?= base_url(); ?>/js/popper.min.js"></script>
+  <script src="<?= base_url(); ?>/js/bootstrap.js"></script>
+  <script src="<?= base_url(); ?>/js/custom.js"></script>
