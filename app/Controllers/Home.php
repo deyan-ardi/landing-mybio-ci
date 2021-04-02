@@ -51,7 +51,7 @@ class Home extends BaseController
 			]);
 
 			if (!$contactEmail) {
-				return redirect()->to('/contact')->withInput()->with('validation', $this->form_validation);
+				return redirect()->to('/contact')->withInput();
 			} else {
 				$UserAgent = $this->request->getUserAgent();
 				if ($UserAgent->isBrowser()) {
